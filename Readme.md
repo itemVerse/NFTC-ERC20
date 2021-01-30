@@ -2,7 +2,7 @@
 
 It's solidity code for NFT Currency of itemVerse platform
 
-Etherscan: https://etherscan.io/address/0x6ff472348477b8c479de5cbee5a3dc772c4457f1
+Etherscan: https://etherscan.io/token/0x6ff472348477b8c479de5cbee5a3dc772c4457f1
 
 Total Supply: 10,000,000,000 NFTC
 
