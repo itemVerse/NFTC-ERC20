@@ -1,4 +1,4 @@
-# NTFC(NFT Currency) Luniverse-LMT
+# NFTC(NFT Currency) Luniverse-LMT
 
 It's solidity code for NFT Currency of itemVerse platform
 
