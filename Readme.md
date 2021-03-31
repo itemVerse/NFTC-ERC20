@@ -1,10 +1,10 @@
-# NFTC(NFT Currency) Luniverse-LMT
+# NFTC(NFT Currency) ERC20 Token
 
 It's solidity code for NFT Currency of itemVerse platform
 
-Luniverse Explorer: https://scan.luniverse.io/tokens/0x2cb548570ABe35C9928FE9329E64d8e6dC2A91Cf
+Etherscan: https://etherscan.io/token/0x6ff472348477b8c479de5cbee5a3dc772c4457f1
 
-Total Supply: 5,000,000,000 NFTC
+Total Supply: 10,000,000,000 NFTC
 
 ### Optional
 
